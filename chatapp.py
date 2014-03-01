@@ -35,4 +35,4 @@ def handle_message(data):
 
 
 if __name__ == '__main__':
-    ws.run(app)
+    ws.run(app, host='0.0.0.0', port=3001)
