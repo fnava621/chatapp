@@ -4,7 +4,7 @@ chatapp
 
 Flask and Angular.js Chat Application using Socket.io
 
-[Demo Server](http://143.225.204.60:5000/)
+[Demo Server](http://143.225.204.60:3001/)
 
 ## Requirements
 - Python
