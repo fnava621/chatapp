@@ -9,8 +9,5 @@ Flask and Angular.js Chat Application using Socket.io
 ## Requirements
 - Python
 - Gevent
-- Flask
-- Flask-Gevent
-
-
-Note: I will update the chat application to use Redis, this was done in 2 hours :)
+- Libevent
+- ``` pip install -r requirements.txt ```
