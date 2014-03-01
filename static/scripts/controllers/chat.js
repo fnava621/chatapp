@@ -17,7 +17,7 @@ angular.module('chatWebApp')
         });
 
         $scope.sendMessage = function () {
-            socket.emit('message', {
+            socket.emit('send_message', {
                 message: $scope.newMessage,
                 username: $scope.username
             });
